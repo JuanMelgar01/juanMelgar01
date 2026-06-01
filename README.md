@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Juan Melgar 👋
 
-<!--
-**JuanMelgar01/juanMelgar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web Junior con formación en Desarrollo de Aplicaciones Web (DAW).
 
-Here are some ideas to get you started:
+Actualmente sigo ampliando conocimientos en Java, JavaScript, desarrollo web y herramientas de desarrollo modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- Java
+- Spring Boot
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
+- NodeJS
+- MySQL y MongoDB
+- Git
+
+## Contacto
+
+LinkedIn:
+[linkedin.com/in/juanmelgar](https://www.linkedin.com/in/juanmelgar/)
